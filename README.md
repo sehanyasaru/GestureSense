@@ -22,7 +22,7 @@ To get started with the **Hand Gesture Control System**, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/hand-gesture-control.git
+    git clone https://github.com/sehanyasaru/GestureSense.git
     cd hand-gesture-control
     ```
 
